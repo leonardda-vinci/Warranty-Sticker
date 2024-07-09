@@ -681,7 +681,7 @@ namespace WarrantySticker
 		private void ReadAndMove(SqlConnection SQLConnDB)
 		{
 			var IniGet = new INIFile(strINIPath);
-			var TxtPath = IniGet.Read("Warranty1");
+			var TxtPath = IniGet.Read("Warranty");
 			var WarrantyPath = IniGet.Read("WarrantyPath");
 			var QRPath = IniGet.Read("QRPath");
 			var txt = "*.txt";
