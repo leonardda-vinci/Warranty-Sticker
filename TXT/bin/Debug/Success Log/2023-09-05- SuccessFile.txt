@@ -1,0 +1,16 @@
+09/5/2023 12:00:00 am          Batch Program Success Log
+08:54:40.7038297        TXT file found for Warranty and QR Sticker. Starting Process..
+08:54:41.4499831        9501000013621 Successfully Generated Image
+08:54:42.2572188        00101010L840 successfully Printed!
+08:54:44.3443759        9501000013621 Successfully Generated Image
+08:54:44.6438914        00101010L840 successfully Printed!
+08:54:46.6640938        00101010L840-00101010L840- Successfully Generated Barcode Image and saved to folder
+08:54:46.9514057        00101010L840,00101010L840, successfully Printed!
+10:31:52.3022559        TXT file found for Warranty and QR Sticker. Starting Process..
+10:31:52.8622396        9501000013621 Successfully Generated Image
+10:31:53.3321970        00101010L840 successfully Printed!
+10:31:55.3656788        9501000013621 Successfully Generated Image
+10:31:55.6623665        00101010L840 successfully Printed!
+10:31:57.6822886        00101010L840-00101010L840- Successfully Generated Barcode Image and saved to folder
+10:31:57.9275122        00101010L840,00101010L840, successfully Printed!
+10:31:59.9449424        Finish printing QR and warranty stickers

@@ -1,0 +1,7 @@
+09/1/2023 12:00:00 am          Batch Program Error Log
+13:44:49.0685693        Printing of Warranty Sticker Failed The process cannot access the file 'C:\Users\RCS\Documents\Programs\WarrantySticker\TXT\bin\Debug\Generated Image\09-01-2023-00101010L840.bmp' because it is being used by another process.
+13:47:49.4171977        Printing of Warranty Sticker Failed The process cannot access the file 'C:\Users\RCS\Documents\Programs\WarrantySticker\TXT\bin\Debug\Generated Image\09-01-2023-00101010L840.bmp' because it is being used by another process.
+13:47:51.7215062        The process cannot access the file 'C:\Users\RCS\Documents\Programs\WarrantySticker\TXT\bin\Debug\Generated Image\00101010L84000101010L840.bmp' because it is being used by another process.
+13:49:52.5468820        Printing of Warranty Sticker Failed The process cannot access the file 'C:\Users\RCS\Documents\Programs\WarrantySticker\TXT\bin\Debug\Generated Image\09-01-2023-00101010L840.bmp' because it is being used by another process.
+13:49:52.5570768        The process cannot access the file 'C:\Users\RCS\Documents\Programs\WarrantySticker\TXT\bin\Debug\Generated Image\09-01-2023-00101010L840.bmp' because it is being used by another process.
+13:51:09.3967870        Printing of Warranty Sticker Failed The process cannot access the file 'C:\Users\RCS\Documents\Programs\WarrantySticker\TXT\bin\Debug\Generated Image\09-01-2023-00101010L840.bmp' because it is being used by another process.

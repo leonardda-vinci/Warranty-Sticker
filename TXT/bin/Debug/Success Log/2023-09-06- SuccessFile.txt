@@ -1,0 +1,36 @@
+09/6/2023 12:00:00 am          Batch Program Success Log
+10:43:14.8882799        TXT file found for QR Sticker. Starting Process..
+10:44:08.5301624        00101010L840-00101010L841-00101010L842 Successfully Generated Barcode Image and saved to folder
+10:44:21.1434171        00101010L840,00101010L841,00101010L842 successfully Printed!
+10:45:23.2768057        00101010L843-00101010L844- Successfully Generated Barcode Image and saved to folder
+10:45:29.1362465        00101010L843,00101010L844, successfully Printed!
+13:41:10.3758062        TXT file found for QR Sticker. Starting Process..
+13:41:11.9883353        00101010L840-00101010L841-00101010L842 Successfully Generated Barcode Image and saved to folder
+13:41:13.2341384        00101010L840,00101010L841,00101010L842 successfully Printed!
+13:41:15.2565842        00101010L843-00101010L844- Successfully Generated Barcode Image and saved to folder
+13:41:15.5669365        00101010L843,00101010L844, successfully Printed!
+13:41:17.5740389        finish printing all QR stickers.
+14:39:53.7959037        Application Stopped
+14:39:57.7818315        Application Started
+14:40:00.6694763        Application Stopped
+14:40:03.6753240        Application Started
+14:40:06.8189140        Application Stopped
+14:40:07.4846744        Application Started
+14:40:07.9400642        Application Stopped
+14:40:08.6675761        Application Started
+14:40:09.2452760        Application Stopped
+14:40:11.1039356        Application Started
+14:40:11.6841631        Application Stopped
+14:40:12.1799132        Application Started
+14:40:12.6771528        Application Stopped
+14:40:13.2528252        Application Started
+14:40:13.7332830        Application Stopped
+14:40:14.2999744        Application Started
+14:41:17.2869966        Application Stopped
+14:41:18.3151350        Application Started
+14:41:21.2615879        Application Stopped
+14:41:31.0533705        Application Started
+14:42:34.2935668        Application Stopped
+14:42:43.8861146        Application Stopped
+15:39:58.7885272        Application Stopped
+15:39:59.9957599        Application Started

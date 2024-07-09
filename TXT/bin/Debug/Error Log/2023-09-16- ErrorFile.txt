@@ -1,0 +1,19 @@
+09/16/2023 12:00:00 am          Batch Program Error Log
+08:43:35.6515483        there is a duplicated code.
+08:43:37.9948758        there is a duplicated code.
+08:43:40.2908780        there is a duplicated code.
+08:43:42.6208025        there is a duplicated code.
+09:10:28.6815326        there is a duplicated code.
+09:10:31.0620448        there is a duplicated code.
+09:10:33.3317208        there is a duplicated code.
+09:10:35.6020066        there is a duplicated code.
+09:10:37.8716502        there is a duplicated code.
+09:10:40.1321309        there is a duplicated code.
+09:10:42.4167964        there is a duplicated code.
+09:10:44.6769556        there is a duplicated code.
+09:10:46.9617154        there is a duplicated code.
+09:10:49.2220327        there is a duplicated code.
+09:10:57.7721143        there is a duplicated code.
+09:11:00.0519982        there is a duplicated code.
+09:11:02.3228867        there is a duplicated code.
+09:11:04.6118613        there is a duplicated code.

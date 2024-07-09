@@ -1,0 +1,77 @@
+09/1/2023 12:00:00 am          Batch Program Success Log
+13:27:02.0124742        TXT file found for QR Sticker. Starting Process..
+13:27:42.9493848        00101010L840-00101010L840-00101010L840 Successfully Generated Barcode Image and saved to folder
+13:28:13.7390680        00101010L840,00101010L840,00101010L840 successfully Printed!
+13:31:07.9190329        TXT file found for QR Sticker. Starting Process..
+13:31:50.4789465        00101010L840-00101010L840-00101010L840 Successfully Generated Barcode Image and saved to folder
+13:32:05.3986239        00101010L840,00101010L840,00101010L840 successfully Printed!
+13:33:03.1987956        TXT file found for Warranty and QR Sticker. Starting Process..
+13:34:09.6087404        TXT file found for Warranty and QR Sticker. Starting Process..
+13:34:20.4986668        9501000013621 Successfully Generated Image
+13:34:21.0203544        00101010L840 successfully Printed!
+13:34:25.8383196        9501000013621 Successfully Generated Image
+13:34:28.2413557        00101010L840 successfully Printed!
+13:34:34.9833194        9501000013621 Successfully Generated Image
+13:34:35.5083351        00101010L840 successfully Printed!
+13:34:45.7184203        TXT file found for Warranty and QR Sticker. Starting Process..
+13:34:59.7505943        9501000013621 Successfully Generated Image
+13:35:02.5183525        00101010L840 successfully Printed!
+13:35:15.5749626        9501000013621 Successfully Generated Image
+13:35:19.2087292        00101010L840 successfully Printed!
+13:35:27.6484256        9501000013621 Successfully Generated Image
+13:35:34.3086829        00101010L840 successfully Printed!
+13:36:03.5283219        00101010L840-00101010L840-00101010L840 Successfully Generated Barcode Image and saved to folder
+13:36:08.3585714        00101010L840,00101010L840,00101010L840 successfully Printed!
+13:39:58.2181857        TXT file found for Warranty and QR Sticker. Starting Process..
+13:39:58.3779203        9501000013621 Successfully Generated Image
+13:39:58.3779203        00101010L840 successfully Printed!
+13:39:58.4248731        9501000013621 Successfully Generated Image
+13:39:58.4278793        00101010L840 successfully Printed!
+13:39:58.4775873        00101010L840-00101010L840- Successfully Generated Barcode Image and saved to folder
+13:39:58.4775873        00101010L840,00101010L840, successfully Printed!
+13:40:31.8476298        TXT file found for Warranty and QR Sticker. Starting Process..
+13:40:31.9877649        9501000013621 Successfully Generated Image
+13:40:31.9877649        00101010L840 successfully Printed!
+13:40:32.0279266        9501000013621 Successfully Generated Image
+13:40:32.0279266        00101010L840 successfully Printed!
+13:40:32.0379717        00101010L840-00101010L840- Successfully Generated Barcode Image and saved to folder
+13:40:32.0379717        00101010L840,00101010L840, successfully Printed!
+13:44:47.3071009        TXT file found for Warranty and QR Sticker. Starting Process..
+13:44:47.8472255        9501000013621 Successfully Generated Image
+13:44:49.0273818        00101010L840 successfully Printed!
+13:44:49.0775776        00101010L840-00101010L840- Successfully Generated Barcode Image and saved to folder
+13:44:49.3771523        00101010L840,00101010L840, successfully Printed!
+13:47:46.4271956        TXT file found for Warranty and QR Sticker. Starting Process..
+13:47:46.9666417        9501000013621 Successfully Generated Image
+13:47:47.3607862        00101010L840 successfully Printed!
+13:47:49.4398156        00101010L840-00101010L840- Successfully Generated Barcode Image and saved to folder
+13:47:49.6932395        00101010L840,00101010L840, successfully Printed!
+13:49:49.8866227        TXT file found for Warranty Sticker. Starting Process..
+13:49:50.0267596        9501000013621 Successfully Generated Image
+13:49:50.5065928        00101010L840 successfully Printed!
+13:50:31.6867845        TXT file found for Warranty Sticker. Starting Process..
+13:50:50.2665570        9501000013621 Successfully Generated Image
+13:50:56.8332126        00101010L840 successfully Printed!
+13:51:30.8450812        TXT file found for Warranty Sticker. Starting Process..
+13:51:37.3864472        9501000013621 Successfully Generated Image
+13:51:39.6067974        00101010L840 successfully Printed!
+13:55:24.7114269        TXT file found for Warranty Sticker. Starting Process..
+13:55:45.2409468        TXT file found for Warranty Sticker. Starting Process..
+13:56:35.4699504        9501000013621 Successfully Generated Image
+13:56:36.8961261        00101010L840 successfully Printed!
+13:57:03.6793770        9501000013621 Successfully Generated Image
+13:57:04.2556958        00101010L840 successfully Printed!
+14:04:21.5349417        TXT file found for Warranty Sticker. Starting Process..
+14:04:40.5651888        9501000013621 Successfully Generated Image
+14:04:51.1647260        TXT file found for Warranty Sticker. Starting Process..
+14:04:57.7648803        9501000013621 Successfully Generated Image
+14:05:00.2554382        00101010L840 successfully Printed!
+14:05:17.1149386        9501000013621 Successfully Generated Image
+14:05:25.8153679        00101010L840 successfully Printed!
+14:06:03.4249198        TXT file found for Warranty and QR Sticker. Starting Process..
+14:06:03.9649427        9501000013621 Successfully Generated Image
+14:06:04.3696505        00101010L840 successfully Printed!
+14:06:06.4651607        9501000013621 Successfully Generated Image
+14:06:06.7551759        00101010L840 successfully Printed!
+14:06:08.7753485        00101010L840-00101010L840- Successfully Generated Barcode Image and saved to folder
+14:06:09.0251492        00101010L840,00101010L840, successfully Printed!

@@ -1,0 +1,10 @@
+7/9/2024 12:00:00 AM          Batch Program Error Log
+10:26:00.3689700        Failed to read or process files: The given path's format is not supported.
+10:27:01.8799305        Failed to read or process files: The given path's format is not supported.
+10:29:26.9111955        there is a duplicated code.
+10:29:30.6424903        there is a duplicated code.
+10:29:50.3975869        there is a duplicated code.
+10:29:50.4620189        Printing of Warranty Sticker Failed Settings to access printer 'printertest' are not valid.
+10:30:20.0572280        there is a duplicated code.
+10:32:59.3904609        Printing of Warranty Sticker Failed Settings to access printer 'printertest' are not valid.
+10:33:33.0875372         there is a duplicated code.

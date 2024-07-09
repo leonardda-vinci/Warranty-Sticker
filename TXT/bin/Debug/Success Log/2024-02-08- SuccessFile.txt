@@ -1,0 +1,71 @@
+02/8/2024 12:00:00 am          Batch Program Success Log
+10:43:27.3185323        TXT file found for Warranty Sticker. Starting Process..
+10:45:39.0487664        FA2 - SE(60)0000001562 Successfully Generated Image
+10:45:42.3124218        MAAD006320 successfully Printed!
+10:45:44.8903358        FA2 - SE(60)0000001563 Successfully Generated Image
+10:45:44.8928333        MAAD006319 successfully Printed!
+10:45:44.8958293        Finish printing all warranty stickers
+10:45:44.8978262        TXT file found for QR Sticker. Starting Process..
+10:45:44.9124199        00101010N251-00101010N252-00101010N253 Successfully Generated Barcode Image and saved to folder
+10:45:44.9142679        00101010N251,00101010N252,00101010N253 successfully Printed!
+10:45:46.9365923        00101010N254-00101010N255-00101010N256 Successfully Generated Barcode Image and saved to folder
+10:45:46.9375887        00101010N254,00101010N255,00101010N256 successfully Printed!
+10:45:48.9762168        00101010N257-00101010N258-00101010N259 Successfully Generated Barcode Image and saved to folder
+10:45:48.9781790        00101010N257,00101010N258,00101010N259 successfully Printed!
+10:45:51.0042631        00101010N260-00101010N261-00101010N262 Successfully Generated Barcode Image and saved to folder
+10:45:51.0082579        00101010N260,00101010N261,00101010N262 successfully Printed!
+10:45:53.0310132        00101010N263-00101010N264-00101010N265 Successfully Generated Barcode Image and saved to folder
+10:45:53.0333800        00101010N263,00101010N264,00101010N265 successfully Printed!
+10:45:55.0516508        00101010N266-00101010N267-00101010N268 Successfully Generated Barcode Image and saved to folder
+10:45:55.0546835        00101010N266,00101010N267,00101010N268 successfully Printed!
+10:45:57.0783096        00101010N269-00101010N270-00101010N271 Successfully Generated Barcode Image and saved to folder
+10:45:57.0803046        00101010N269,00101010N270,00101010N271 successfully Printed!
+10:45:59.1082182        00101010N272-00101010N273-00101010N274 Successfully Generated Barcode Image and saved to folder
+10:45:59.1102104        00101010N272,00101010N273,00101010N274 successfully Printed!
+10:46:01.1336457        00101010N275-00101010N276-00101010N277 Successfully Generated Barcode Image and saved to folder
+10:46:01.1362204        00101010N275,00101010N276,00101010N277 successfully Printed!
+10:46:03.1552432        00101010N279-00101010N280-00101010N281 Successfully Generated Barcode Image and saved to folder
+10:46:03.1582390        00101010N279,00101010N280,00101010N281 successfully Printed!
+10:46:05.1915542        00101010N282-00101010N283-00101010N284 Successfully Generated Barcode Image and saved to folder
+10:46:05.1930548        00101010N282,00101010N283,00101010N284 successfully Printed!
+10:46:07.2182149        00101010N285-00101010N286-00101010N287 Successfully Generated Barcode Image and saved to folder
+10:46:07.2202095        00101010N285,00101010N286,00101010N287 successfully Printed!
+10:46:07.9144688        Application Stopped
+10:46:09.2445344        00101010N288-00101010N289-00101010N290 Successfully Generated Barcode Image and saved to folder
+10:46:09.2465555        00101010N288,00101010N289,00101010N290 successfully Printed!
+10:46:11.2721677        00101010N291-- Successfully Generated Barcode Image and saved to folder
+10:46:11.2772439        00101010N291,, successfully Printed!
+10:46:13.2893866        finish printing all QR stickers.
+14:02:05.0790271        TXT file found for Warranty Sticker. Starting Process..
+14:02:05.8642584        FA2 - SE(60)0000001562 Successfully Generated Image
+14:02:06.2175283        Finish printing all warranty stickers
+14:02:06.2185294        TXT file found for QR Sticker. Starting Process..
+14:02:06.2594881        00101010N251-00101010N252-00101010N253 Successfully Generated Barcode Image and saved to folder
+14:02:06.2604874        00101010N251,00101010N252,00101010N253 successfully Printed!
+14:02:08.2760380        00101010N254-00101010N255-00101010N256 Successfully Generated Barcode Image and saved to folder
+14:02:08.2780393        00101010N254,00101010N255,00101010N256 successfully Printed!
+14:02:10.3397309        00101010N257-00101010N258-00101010N259 Successfully Generated Barcode Image and saved to folder
+14:02:10.3427179        00101010N257,00101010N258,00101010N259 successfully Printed!
+14:02:12.3708991        00101010N260-00101010N261-00101010N262 Successfully Generated Barcode Image and saved to folder
+14:02:12.3738908        00101010N260,00101010N261,00101010N262 successfully Printed!
+14:02:14.4007759        00101010N263-00101010N264-00101010N265 Successfully Generated Barcode Image and saved to folder
+14:02:14.4027650        00101010N263,00101010N264,00101010N265 successfully Printed!
+14:02:16.4255621        00101010N266-00101010N267-00101010N268 Successfully Generated Barcode Image and saved to folder
+14:02:16.4286056        00101010N266,00101010N267,00101010N268 successfully Printed!
+14:02:18.4646498        00101010N269-00101010N270-00101010N271 Successfully Generated Barcode Image and saved to folder
+14:02:18.4678027        00101010N269,00101010N270,00101010N271 successfully Printed!
+14:02:20.4967085        00101010N272-00101010N273-00101010N274 Successfully Generated Barcode Image and saved to folder
+14:02:20.4998158        00101010N272,00101010N273,00101010N274 successfully Printed!
+14:02:22.5262560        00101010N275-00101010N276-00101010N277 Successfully Generated Barcode Image and saved to folder
+14:02:22.5292528        00101010N275,00101010N276,00101010N277 successfully Printed!
+14:02:24.5558772        00101010N279-00101010N280-00101010N281 Successfully Generated Barcode Image and saved to folder
+14:02:24.5598747        00101010N279,00101010N280,00101010N281 successfully Printed!
+14:02:26.5845487        00101010N282-00101010N283-00101010N284 Successfully Generated Barcode Image and saved to folder
+14:02:26.5870447        00101010N282,00101010N283,00101010N284 successfully Printed!
+14:02:28.6257920        00101010N285-00101010N286-00101010N287 Successfully Generated Barcode Image and saved to folder
+14:02:28.6280752        00101010N285,00101010N286,00101010N287 successfully Printed!
+14:02:30.6638850        00101010N288-00101010N289-00101010N290 Successfully Generated Barcode Image and saved to folder
+14:02:30.6670005        00101010N288,00101010N289,00101010N290 successfully Printed!
+14:02:32.6883217        00101010N291-- Successfully Generated Barcode Image and saved to folder
+14:02:32.6903176        00101010N291,, successfully Printed!
+14:02:34.6964963        finish printing all QR stickers.

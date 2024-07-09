@@ -1,0 +1,3 @@
+09/6/2023 12:00:00 am          Batch Program Error Log
+13:41:11.9738835        there is a duplicated code.
+13:41:15.2500941        there is a duplicated code.

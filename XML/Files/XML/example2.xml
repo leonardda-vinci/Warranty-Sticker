@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template name="Loyalty Card" card_type="2" card_thickness="30" source="feeder" destination="eject" delete="no">
+<fonts>
+  <font id="1" name="BebasNeue-Regular" size="10" bold="no"/>
+  <font id="2" name="SUPER PUNCH" size="13" bold="no"/>
+</fonts>
+<sides>
+  <side name="front" orientation="landscape" rotation="0">
+    <print_types>
+      <print_type type="color">
+      <graphic format="bmp" delete="false">SUKI-FRONT</graphic>
+      </print_type>
+    </print_types>
+  </side>
+  <side name="back" orientation="landscape" rotation="0">
+    <print_types>
+      <print_type type="color">
+        <graphic format="bmp" delete="false">SUKI-CARD-BACK</graphic>
+        <text field="SUKI Name" font_id="1" x="75" y="383" color="0x001111">LAUREANA TACUTACU LAGONILLA</text>
+        <text field="SUKI Date Started" font_id="1" x="75" y="418" color="0x001111">JUNE 2025</text>
+        <text field="SUKI Code" font_id="2" x="75" y="565" color="0x001111">8800 0000 0000 6559</text>
+        <barcode order_id="2" field="SUKI ID Barcode" multiplier="3" height="75" width="395" x="95" y="480" code="code128" ratio="2.0" rotation="0" show_text="no" quiet_zone_width="0">8800000000006559</barcode>
+        <barcode field="SUKI ID QR" x="700" y="50" width="250" height="250" rotation="0" color="000000" code="qrcode" multiplier="8">8800000000006559</barcode>
+      </print_type>
+    </print_types>
+  </side>
+</sides>
+</template>

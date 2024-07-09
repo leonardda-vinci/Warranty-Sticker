@@ -1,0 +1,72 @@
+7/9/2024 12:00:00 AM          Batch Program Success Log
+10:24:00.7724873         Check your SQL Connection Settings. Login failed for user 'SQL Server 2017'.
+10:25:44.5080946         Check your SQL Connection Settings. Login failed for user 'SQL Server 2017'.
+10:25:57.3292461        Successfully connected to the SQL. Reading files, please wait...
+10:26:58.8582158        Successfully connected to the SQL. Reading files, please wait...
+10:27:32.6874099        Successfully connected to the SQL. Reading files, please wait...
+10:27:35.7310043        Error executing SQL query: Invalid object name 'OITM'.
+10:27:35.7513148        Error executing SQL query: Invalid object name 'OITM'.
+10:27:35.7689214        Error executing SQL query: Invalid object name 'OITM'.
+10:27:35.7860820        Error executing SQL query: Invalid object name 'OITM'.
+10:27:58.7455947        Successfully connected to the SQL. Reading files, please wait...
+10:28:01.7654713        QR Code Stickers are ready to print
+10:28:01.7654713        QR Code Stickers are ready to print
+10:28:01.7654713        No print.
+10:28:01.7723896        QR Code Stickers are ready to print
+10:28:01.7723896        No print.
+10:28:01.7723896        Detailed Stickers are ready to print
+10:28:01.7754958        QR Code Stickers are ready to print
+10:28:01.7754958        No print.
+10:28:01.7754958        Detailed Stickers are ready to print
+10:28:01.7754958        Both QR Code and Detailed Stickers are ready to print.
+10:28:01.7754958        QR Sticker txt file successfully created.
+10:28:01.7754958        Detailed Sticker txt file successfully created.
+10:28:01.7754958        TXT file found for Warranty Sticker. Starting Process..
+10:28:01.8554884        23123131  Successfully Generated Image
+10:29:26.8254261         Check your SQL Connection Settings. Login failed for user 'SQL Server 2017'.
+10:29:26.8284173        TXT file found for Warranty Sticker. Starting Process..
+10:29:26.9157007        23123131  Successfully Generated Image
+10:29:30.6173858          successfully Printed!
+10:29:30.6424903        31231245  Successfully Generated Image
+10:29:50.3161160         Check your SQL Connection Settings. Login failed for user 'SQL Server 2017'.
+10:29:50.3181092        TXT file found for Warranty Sticker. Starting Process..
+10:29:50.4015736        23123131  Successfully Generated Image
+10:29:50.4620189        Finish printing all warranty stickers
+10:29:50.4620189        TXT file found for QR Sticker. Starting Process..
+10:29:50.4717564        112312312 | asdasdas|
+4444242 | car|
+23123131 | fan-- Successfully Generated Barcode Image and saved to folder
+10:30:18.0425009        112312312 | asdasdas|
+4444242 | car|
+23123131 | fan,, successfully Printed!
+10:30:20.0621351        31231245 | laptop|
+31231245 | laptop-- Successfully Generated Barcode Image and saved to folder
+10:30:24.6980024        31231245 | laptop|
+31231245 | laptop,, successfully Printed!
+10:30:26.7044403        finish printing all QR stickers.
+10:32:18.9659966         Check your SQL Connection Settings. Login failed for user 'SQL Server 2017'.
+10:32:42.6474473         Check your SQL Connection Settings. Login failed for user 'SQL Server 2017'.
+10:32:46.4131934        Application Stopped
+10:32:56.2052084        Successfully connected to the SQL. Reading files, please wait...
+10:32:59.2186046        QR Code Stickers are ready to print
+10:32:59.2265738        QR Code Stickers are ready to print
+10:32:59.2357025        No print.
+10:32:59.2357025        QR Code Stickers are ready to print
+10:32:59.2357025        No print.
+10:32:59.2387062        Detailed Stickers are ready to print
+10:32:59.2387062        QR Code Stickers are ready to print
+10:32:59.2387062        No print.
+10:32:59.2387062        Detailed Stickers are ready to print
+10:32:59.2422133        Both QR Code and Detailed Stickers are ready to print.
+10:32:59.2422133        QR Sticker txt file successfully created.
+10:32:59.2422133        Detailed Sticker txt file successfully created.
+10:32:59.2422133        TXT file found for Warranty Sticker. Starting Process..
+10:32:59.3284477        23123131  Successfully Generated Image
+10:32:59.3904609        Finish printing all warranty stickers
+10:32:59.3904609        TXT file found for QR Sticker. Starting Process..
+10:32:59.4085343        112312312 | asdasdas-4444242 | car-23123131 | fan Successfully Generated Barcode Image and saved to folder
+10:33:31.0687128        112312312 | asdasdas,4444242 | car,23123131 | fan successfully Printed!
+10:33:33.0977462        31231245 | laptop-31231245 | laptop- Successfully Generated Barcode Image and saved to folder
+10:33:42.9126169        31231245 | laptop,31231245 | laptop, successfully Printed!
+10:33:44.9319269        finish printing all QR stickers.
+10:35:34.5967744         Check your SQL Connection Settings. Login failed for user 'SQL Server 2017'.
